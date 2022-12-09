@@ -1,0 +1,13 @@
+name: RPGSystem
+main: net.royalguardians.RPGSystem.RPGSystem
+version: 0.1
+api-version: 1.18
+description: Ein RPG-System
+author: _SilverPhoenix
+load: STARTUP
+depend:
+  - PhoenixID
+commands:
+  Specie:
+  NobleTitle:
+  Weapon:
